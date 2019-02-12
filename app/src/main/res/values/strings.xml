@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ComplexPreferenceExample</string>
+    <string name="save">Save</string>
+    <string name="get">Get</string>
+</resources>
